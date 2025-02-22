@@ -1,3 +1,5 @@
+read Terms of Service and Privacy Policy before usage.
+
 # Dicomus 🚀
 
 Dicomus is a chat platform developed for mobile devices that allows people to chat anonymously over the internet. With Dicomus, users can communicate without revealing their identity, ensuring privacy and security in their conversations. The platform is designed for ease of use, providing a seamless and intuitive chat experience. 💬🔒
